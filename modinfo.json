@@ -1,0 +1,21 @@
+{
+  "author": "wondible",
+  "build": "74525",
+  "category": ["metal", "meta-mod", "game-mode", "reclaim"],
+  "context": "server",
+  "date": "2014/11/05",
+  "dependencies": [
+    "com.wondible.pa.finite_metal",
+    "com.wondible.pa.junkyard_wars",
+    "com.wondible.pa.no_metal_commander",
+    "com.wondible.pa.reclaimable_features",
+    "com.wondible.pa.wreckage"
+  ],
+  "description": "All metal comes via reclaim.  Meta-mod, only depends on other mods.",
+  "display_name": "Planetary Reclamation",
+  "forum": "https://forums.uberent.com/threads/rel-server-junkyards-wars.65367/",
+  "identifier": "com.wondible.pa.planetary_reclamation",
+  "signature": "not yet implemented",
+  "version": "1.0.0"
+}
+
